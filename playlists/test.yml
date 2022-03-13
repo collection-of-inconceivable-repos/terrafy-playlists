@@ -1,12 +1,11 @@
-Name: test
+name: test
 description: test playlist
 image: white.png
-songs:
+tracks:
 - link: https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9?si=6a56ddabfc464ad0
   song: 
   artist: 
   album: 
-- link: 
-  song: Under Presure
+- name: Under Pressure
   artist: Queen
   album: Hot Space
