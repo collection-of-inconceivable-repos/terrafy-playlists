@@ -1,0 +1,8 @@
+name: test
+description: test playlist
+image: white.png
+tracks:
+- link: https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9?si=6a56ddabfc464ad0
+- name: Under Pressure
+  artist: Queen
+  album: Hot Space
